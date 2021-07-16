@@ -8,7 +8,7 @@
 #### *I want to become a front-end developer.*
 ***
 ## **Soft skills:**
-#### I like studing, solving tasks. I'm result-oriented, self-motivated.
+#### I like studying, solving tasks. I'm result-oriented, self-motivated.
 
 
 ***
