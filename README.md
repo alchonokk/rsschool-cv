@@ -1,1 +1,0 @@
-https://github.com/alchonokk/rsschool-cv.git
