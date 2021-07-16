@@ -5,7 +5,7 @@
 #### * E-mail: galunia_suglob@mail.ru
 ***
 ## **Objective:**
-#### I want to become a front-end developer.
+#### *I want to become a front-end developer.*
 ***
 ## **Soft skills:**
 #### I like studing, solving tasks. I'm result-oriented, self-motivated.
@@ -17,7 +17,7 @@
 #### * Programming language: Fortran, Pascal, HTML/CSS (first level)
 #### * Tools: VS Code, Git (first level) 
 
-``` 
+```
 <!DOCTYPE html>
 <html>
  <body>
