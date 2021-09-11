@@ -1,0 +1,26 @@
+.wrapper {
+    max-width: 1480px;
+    padding: 0 20px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 32px;
+  }
+
+ .myphoto{
+    max-width: 350px;
+    width: 100%;
+    height: auto;
+ } 
+
+ .section{
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ .header_nav{
+    max-width: 50%;
+ }
