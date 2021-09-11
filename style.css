@@ -1,14 +1,19 @@
 body{
-    background-color: rgb(240, 236, 233);
+    background-color: rgb(211, 207, 206);
 }
 
 .h1
 {
     background-color: rgb(150, 146, 142); 
     text-decoration: underline; 
+    font-size: 64px;
 }
 
+h2{text-decoration: underline;}
 
+.contact{
+    font-size: 32px;
+}
 
 .wrapper {
     max-width: 1000px;
@@ -18,7 +23,7 @@ body{
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    font-size: 32px;
+    /* font-size: 32px; */
     
   }
 
@@ -43,5 +48,19 @@ body{
  }
 
  .header_nav{
-    max-width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    font-weight: 200;
+    width: 200px;
+    
+ }
+ .nav_listheader{
+     color: rgb(63, 59, 59);
+     transition:all 0.2s ease-out ;
+     text-decoration: none;
+     font-size: 24px;
  }
