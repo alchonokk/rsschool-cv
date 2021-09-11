@@ -1,5 +1,17 @@
+body{
+    background-color: rgb(240, 236, 233);
+}
+
+.h1
+{
+    background-color: rgb(150, 146, 142); 
+    text-decoration: underline; 
+}
+
+
+
 .wrapper {
-    max-width: 1480px;
+    max-width: 1000px;
     padding: 0 20px;
     margin: 0 auto;
     display: flex;
@@ -7,7 +19,15 @@
     align-items: center;
     flex-wrap: wrap;
     font-size: 32px;
+    
   }
+
+.wrapperback{
+    background-color: rgba(99, 92, 89, .3);
+    padding: 0 20px;
+    margin: 0 auto;
+    max-width: 1000px;
+}
 
  .myphoto{
     max-width: 350px;
@@ -19,6 +39,7 @@
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
+    
  }
 
  .header_nav{
