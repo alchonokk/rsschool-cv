@@ -86,10 +86,11 @@
                 </nav>
                 <pre>
                     <code>
-                    <h4>Details: In DNA strings, symbols "A" and "T" are complements of each other, "C" and "G".<br>You have function with one side of the DNA (string, except for Haskell);<br>you need to get the other complementary side. DNA strand is never empty or there is no DNA at all (again, except for Haskell).</h4>
+Details: In DNA strings, symbols "A" and "T" are complements of each other, "C" and "G".<br>You have function with one side of the DNA (string, except for Haskell);<br>you need to get the other complementary side. DNA strand is never empty or there is no DNA at all (again, except for Haskell).
+
 function DNAStrand(dna)
 {let dnk='';
-for (let i= 0; i < dna.length; i++ )
+for (let i= 0; i &lt dna.length; i++ )
 {if (dna[i]=='A') {dnk +='T'}
 else if (dna[i]=='T') {dnk +='A'}
 else if (dna[i]=='C') {dnk +='G'}
