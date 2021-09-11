@@ -1,1 +1,1 @@
-https://alchonokk.github.io/rsschool-cv/cv
+https://alchonokk.github.io/rsschool-cv/
