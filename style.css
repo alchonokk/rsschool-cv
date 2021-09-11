@@ -26,6 +26,20 @@ h2{text-decoration: underline;}
     /* font-size: 32px; */
     
   }
+  .wrapper_footer2 {
+    padding: 0 20px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    flex-wrap: nowrap;
+   
+    }
+  .wrapper_footer1 {
+    max-width: 1000px;
+    padding: 0 20px;
+    margin: 0 auto;
+  }
 
 .wrapperback{
     background-color: rgba(99, 92, 89, .3);
@@ -55,12 +69,19 @@ h2{text-decoration: underline;}
     padding: 0;
     margin: 0;
     font-weight: 200;
-    width: 200px;
+    width: 350px;
+    list-style-type: none;
     
  }
+
  .nav_listheader{
      color: rgb(63, 59, 59);
      transition:all 0.2s ease-out ;
      text-decoration: none;
      font-size: 24px;
  }
+
+.git{
+    color: black;
+    text-decoration: none;
+}
