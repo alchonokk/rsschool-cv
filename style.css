@@ -1,0 +1,122 @@
+body{
+    background-color: rgb(211, 207, 206);
+}
+
+.h1
+{
+    background-color: rgb(150, 146, 142); 
+    text-decoration: underline; 
+    font-size: 3rem;
+
+}
+
+h2{text-decoration: underline;}
+
+/* .contact{
+    font-weight: bolder;
+    color: #000;
+    padding: 0;
+    max-width: 200px;
+} */
+
+.wrapper {
+    max-width: 1000px;
+    padding: 0 20px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    /* font-size: 32px; */
+    
+  }
+
+  .wrapper_contacts{
+    /* max-width: 300px; */
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-wrap: wrap;
+
+
+  }
+
+  .wrapper_footer2 {
+    padding: 0 20px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    flex-wrap: nowrap;
+   
+    }
+  .wrapper_footer1 {
+    max-width: 1000px;
+    padding: 0 20px;
+    margin: 0 auto;
+  }
+
+.wrapperback{
+    background-color: rgba(99, 92, 89, .3);
+    padding: 0 20px;
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+ .myphoto{
+    max-width: 350px;
+    width: 100%;
+    height: auto;
+ } 
+
+ .section{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    
+ }
+
+ .header_nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 20px;
+    margin: 0 auto;
+    font-weight: 200;
+    /* max-width: 350px; */
+    /* list-style-type: none; */
+    
+ }
+
+ .nav_listheader{
+     color: rgb(63, 59, 59);
+     transition:all 0.2s ease-out ;
+     text-decoration: none;
+     font-size: 24px;
+     padding: 0 20px;
+ }
+
+ .header_li{
+    padding: 0 20px;
+    list-style-type: none;
+ }
+
+.git{
+    color: black;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav_contact{
+    color: black;
+    transition:all 0.2s ease-out ;
+    text-decoration: none;
+    font-size: 1.1em;
+    /* padding: 0 100px; */
+    display: flex;
+    /* justify-content: space-between; */
+    
+}
