@@ -133,3 +133,7 @@ h2{text-decoration: underline;}
   line-height: 0.3;
   margin-top: 5px;
 }
+code, pre, pre code {
+  white-space: pre-wrap;
+  word-break: break-all;
+}
