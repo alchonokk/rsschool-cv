@@ -1,0 +1,6 @@
+{
+  "files.trimTrailingWhitespace": true,
+  "editor.smartSelect.selectLeadingAndTrailingWhitespace": false,
+  "scm.diffDecorationsIgnoreTrimWhitespace": "true",
+  "files.autoSave": "onFocusChange"
+}
